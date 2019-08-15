@@ -1,0 +1,26 @@
+{
+  "name": "@geeeger/viewbox-offset",
+  "version": "1.0.0",
+  "description": "计算svg path的offset值",
+  "homepage": "https://github.com/geeeger/viewbox-offset.git",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geeeger/viewbox-offset.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "author": "geeeger <lph1988520@sina.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
